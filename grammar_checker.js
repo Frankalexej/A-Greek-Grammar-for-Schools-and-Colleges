@@ -217,8 +217,8 @@ const entryRanges = [
   
     const page1 = evenPage;
     const page2 = evenPage + 1;
-    const src1 = `pages/${page1 + shift}.jp2`;
-    const src2 = `pages/${page2 + shift}.jp2`;
+    const src1 = `pages/${page1 + shift}.png`;
+    const src2 = `pages/${page2 + shift}.png`;
   
     const img1 = document.createElement("img");
     const img2 = document.createElement("img");
