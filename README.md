@@ -1,4 +1,4 @@
-# HA-A-Greek-Grammar-for-Schools-and-Colleges
+# A Greek Grammar for Schools and Colleges
 **J. Hadley & F. D. Allen (1884)**  *A Greek Grammar for Schools and Colleges*
 
 This is an **auxiliary HTML-based reader** for navigating the Greek grammar book by Hadley and Allen. It provides a convenient interface for:
